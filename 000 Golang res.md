@@ -8,3 +8,6 @@
 
 ### video for golang
 * https://www.youtube.com/watch?v=CF9S4QZuV30
+
+## go指南
+* https://tour.go-zh.org/list
