@@ -9,5 +9,6 @@
 ### video for golang
 * https://www.youtube.com/watch?v=CF9S4QZuV30
 
-## go指南
+### go指南
 * https://tour.go-zh.org/list
+* Go 切片：用法和本质 https://blog.go-zh.org/go-slices-usage-and-internals
