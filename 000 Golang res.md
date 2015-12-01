@@ -12,3 +12,6 @@
 ### go指南
 * https://tour.go-zh.org/list
 * Go 切片：用法和本质 https://blog.go-zh.org/go-slices-usage-and-internals
+
+### oop in go
+* http://www.goinggo.net/2013/07/object-oriented-programming-in-go.html
