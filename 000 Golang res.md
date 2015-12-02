@@ -18,3 +18,7 @@
 
 ### Go Concurrency Patterns
 * https://talks.go-zh.org/2012/concurrency.slide#1
+
+### books
+* the way to Go https://github.com/Unknwon/the-way-to-go_ZH_CN
+* 《Go编程基础》 https://github.com/Unknwon/go-fundamental-programming
