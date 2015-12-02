@@ -15,3 +15,6 @@
 
 ### oop in go
 * http://www.goinggo.net/2013/07/object-oriented-programming-in-go.html
+
+### Go Concurrency Patterns
+* https://talks.go-zh.org/2012/concurrency.slide#1
