@@ -18,6 +18,7 @@
 
 ### books
 * the way to Go https://github.com/Unknwon/the-way-to-go_ZH_CN
+* Go圣经: 《The Go Programming Language》 https://github.com/golang-china/gopl-zh
 
 ### video
 * https://www.youtube.com/watch?v=CF9S4QZuV30
